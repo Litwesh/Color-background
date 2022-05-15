@@ -1,0 +1,42 @@
+div{
+	background-color: yellowgreen;
+	border: 20px groove black;
+	height: 500px;
+	width: 1000px;
+	align-content: center;
+}
+
+#B1{
+	background-color: burlywood;
+	border: 5px solid black;
+	height: 100px;
+	width: 100px;
+}
+
+#B2{
+	background-color: indianred;
+	border:5px solid black;
+	height: 100px;
+	width: 100px;
+}
+
+#B3{
+	background-color: royalblue;
+	border: 5px solid black;
+	height: 100px;
+	width: 100px;
+}
+
+#B4{
+	background-color: darkgreen;
+	border: 5px solid black;
+	height: 100px;
+	width: 100px;
+}
+
+#B5{
+	background-color: rebeccapurple;
+	border: 5px solid black;
+	height: 100px;
+	width: 100px;
+}
